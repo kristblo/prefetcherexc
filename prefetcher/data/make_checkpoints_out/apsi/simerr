@@ -1,0 +1,23 @@
+warn: ignoring syscall sigprocmask(1073070158, 1, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigprocmask(0, 3, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 11, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 5, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 8, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 6, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 15, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 3, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: ignoring syscall sigaction(4831387520, 2, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+warn: setsysinfo: ignoring ieee_set_fp_control() arg 0x11ff91f98
+For more information see: http://www.m5sim.org/warn/4c7a4a2
+warn: ignoring syscall setrlimit(4831387592, 3, ...)
+For more information see: http://www.m5sim.org/warn/5c5b547f
+hack: be nice to actually delete the event here

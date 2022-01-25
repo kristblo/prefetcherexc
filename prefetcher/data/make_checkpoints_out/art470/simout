@@ -1,0 +1,22 @@
+Redirecting stdout to /home/hitland/m5files/make_checkpoints_out/art470/simout
+Redirecting stderr to /home/hitland/m5files/make_checkpoints_out/art470/simerr
+M5 Simulator System
+
+Copyright (c) 2001-2008
+The Regents of The University of Michigan
+All Rights Reserved
+
+
+M5 compiled Aug  5 2010 22:48:54
+M5 revision cbd58cd9bc21+ 7591+ default tip
+M5 started Aug  6 2010 21:00:56
+M5 executing on compute-0-1.local
+command line: /home/hitland/m5/build/ALPHA_SE/m5.opt --remote-gdb-port=0 -re --outdir=/home/hitland/m5files/make_checkpoints_out/art470 /home/hitland/m5/configs/example/se.py --checkpoint-dir=/home/hitland/m5files/cp --take-checkpoint=1000000000 --at-instruction --bench=art470
+Global frequency set at 1000000000000 ticks per second
+Creating checkpoint at inst:1000000000
+info: Entering event queue @ 0.  Starting simulation...
+info: Increasing stack size by one page.
+exit cause = a thread reached the max instruction count
+Writing checkpoint
+Checkpoint written.
+Exiting @ cycle 500893751500 because a thread reached the max instruction count
